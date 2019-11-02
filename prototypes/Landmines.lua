@@ -227,7 +227,7 @@ function landmines.enable()
 	    name = "he",
 	    icon = "__RampantArsenal__/graphics/icons/he-landmine.png",
 	    tint = {r=0.70,g=0.70,b=0.9,a=1},
-	    triggerRadius = 7.5,
+	    triggerRadius = 2.5,
             stackSize = 100,
 	    order="f[land-mine]-c[bio]"
 	},
